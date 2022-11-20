@@ -1,4 +1,4 @@
-// import Product from "./components/About";
+import Product from "./components/Product";
 // import Contact from "./components/Contact";
 import Home from "./components/Home";
 import Navbar from "./components/Navbar";
@@ -11,7 +11,7 @@ function App() {
     <div>
       <Navbar />
       <Home />
-      {/* <Product /> */}
+      <Product />
       {/* <Nursery /> */}
       {/* <AboutUs /> */}
       {/* <Contact /> */}
